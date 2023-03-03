@@ -1,13 +1,8 @@
 
 
 ## 运行配置文件
-conda env create -f py36.yaml
-
-## How to train
-You may start with training in Stage1 and when it is well-trained you can transfer to Stage2 base on the policy model of Stage1, this is exactly what Curriculum Learning means. Training Stage2 from scratch may converge at a lower performance or not even converge.
-Please note that the motivation of training in Stage2 is to generalize the model, which hopefully can work well in real environment.
-
-Please use the `stage_ros-add_pose_and_crash` package instead of the default package provided by ROS.
+conda env create -f py36.yaml  
+pip install -r 27.txt
 
 ## 配置ROS空间
 ```
@@ -18,19 +13,17 @@ catkin_make
 source devel/setup.bash
 ```
 
-To train Stage1, modify the hyper-parameters in `ppo_stage1.py` as you like, and running the following command:
-
 ## 启动ROS
+```
 roscore
-
-
+```
 ## 启动环境-环境1
-cd catkin_ws
-(-g 表示是否显示界面)
-rosrun stage_ros_add_pose_and_crash stageros -g ../worlds/stage1.world
+cd catkin_ws  
+(-g 表示是否显示界面)   
+rosrun stage_ros_add_pose_and_crash stageros -g ../worlds/stage1.world  
 ## 运行RL算法
-conda activate env(你的conda环境名)
-mpiexec -np 5 python ppo_stage1.py
+conda activate env(你的conda环境名)  
+mpiexec -np 5 python ppo_stage1.py  
 
 
 ##　环境２
