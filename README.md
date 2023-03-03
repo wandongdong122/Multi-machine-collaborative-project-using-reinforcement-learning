@@ -1,8 +1,10 @@
 
 
 ## 运行配置文件
+```
 conda env create -f py36.yaml  
 pip install -r 27.txt
+```
 
 ## 配置ROS空间
 ```
@@ -18,12 +20,16 @@ source devel/setup.bash
 roscore
 ```
 ## 启动环境-环境1
+```
 cd catkin_ws  
 (-g 表示是否显示界面)   
 rosrun stage_ros_add_pose_and_crash stageros -g ../worlds/stage1.world  
+```
 ## 运行RL算法
+```
 conda activate env(你的conda环境名)  
 mpiexec -np 5 python ppo_stage1.py  
+```
 
 
 ##　环境２
