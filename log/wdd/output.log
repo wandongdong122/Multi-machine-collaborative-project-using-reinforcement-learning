@@ -1,0 +1,553 @@
+2023-02-22 18:52:53,316 - INFO - ####################################
+2023-02-22 18:52:53,319 - INFO - ############Loading Model###########
+2023-02-22 18:52:53,319 - INFO - ####################################
+2023-02-22 18:56:59,686 - INFO - ####################################
+2023-02-22 18:56:59,695 - INFO - ############Loading Model###########
+2023-02-22 18:56:59,695 - INFO - ####################################
+2023-02-23 11:32:09,115 - INFO - ####################################
+2023-02-23 11:32:09,117 - INFO - ############Loading Model###########
+2023-02-23 11:32:09,117 - INFO - ####################################
+2023-02-23 11:39:05,615 - INFO - #####################################
+2023-02-23 11:39:05,669 - INFO - ############Start Training###########
+2023-02-23 11:39:05,669 - INFO - #####################################
+2023-02-23 14:30:10,703 - INFO - #####################################
+2023-02-23 14:30:10,703 - INFO - ############Start Training###########
+2023-02-23 14:30:10,703 - INFO - #####################################
+2023-02-23 14:30:15,290 - INFO - Env 04, Goal (-00.3, 003.8), Episode 00001, setp 035, Reward -4.3 , Distance 008.8, Crashed
+2023-02-23 14:30:16,399 - INFO - Env 04, Goal (-07.3, 001.8), Episode 00002, setp 009, Reward -15.6, Distance 009.1, Crashed
+2023-02-23 14:35:42,325 - INFO - #####################################
+2023-02-23 14:35:42,325 - INFO - ############Start Training###########
+2023-02-23 14:35:42,325 - INFO - #####################################
+2023-02-23 14:35:57,040 - INFO - #####################################
+2023-02-23 14:35:57,040 - INFO - ############Start Training###########
+2023-02-23 14:35:57,040 - INFO - #####################################
+2023-02-23 14:36:56,278 - INFO - #####################################
+2023-02-23 14:36:56,279 - INFO - ############Start Training###########
+2023-02-23 14:36:56,279 - INFO - #####################################
+2023-02-23 14:37:05,891 - INFO - Env 02, Goal (-03.3, 000.2), Episode 00001, setp 089, Reward -12.4, Distance 008.5, Crashed
+2023-02-23 14:37:09,279 - INFO - Env 04, Goal (-01.9, 002.6), Episode 00001, setp 120, Reward 2.3  , Distance 008.8, Crashed
+2023-02-23 14:37:12,800 - INFO - Env 01, Goal (-01.1, -05.0), Episode 00001, setp 152, Reward 11.7 , Distance 009.1, Time out
+2023-02-23 14:37:12,800 - INFO - Env 03, Goal (-06.3, -05.5), Episode 00001, setp 152, Reward -9.7 , Distance 008.2, Time out
+2023-02-23 14:37:12,800 - INFO - Env 00, Goal (-00.6, 006.9), Episode 00001, setp 152, Reward 13.8 , Distance 008.5, Time out
+2023-02-23 14:37:20,407 - INFO - Env 02, Goal (001.4, -07.4), Episode 00002, setp 137, Reward -32.5, Distance 009.5, Crashed
+2023-02-23 14:37:21,464 - INFO - Env 03, Goal (007.7, -02.9), Episode 00002, setp 082, Reward -21.6, Distance 008.1, Crashed
+2023-02-23 14:37:21,464 - INFO - Env 02, Goal (000.8, -08.7), Episode 00003, setp 009, Reward -15.8, Distance 008.4, Crashed
+2023-02-23 14:37:22,683 - INFO - Env 03, Goal (005.6, 003.2), Episode 00003, setp 010, Reward -14.2, Distance 008.3, Crashed
+2023-02-23 14:37:25,881 - INFO - Env 00, Goal (004.5, 006.2), Episode 00002, setp 119, Reward -29.4, Distance 009.9, Crashed
+2023-02-23 14:37:26,178 - INFO - Env 04, Goal (-03.1, -01.9), Episode 00002, setp 152, Reward 10.6 , Distance 008.8, Time out
+2023-02-23 14:37:28,195 - INFO - Env 04, Goal (005.6, 001.3), Episode 00003, setp 018, Reward -15.1, Distance 008.9, Crashed
+2023-02-23 14:37:29,104 - INFO - Env 03, Goal (-07.2, -01.2), Episode 00004, setp 053, Reward -8.8 , Distance 009.8, Crashed
+2023-02-23 14:37:29,571 - INFO - Env 04, Goal (003.8, 005.7), Episode 00004, setp 010, Reward -14.3, Distance 008.9, Crashed
+2023-02-23 14:37:30,403 - INFO - Env 01, Goal (007.4, 003.2), Episode 00002, setp 152, Reward 13.7 , Distance 008.8, Time out
+2023-02-23 14:37:31,406 - INFO - Env 04, Goal (-05.6, -02.7), Episode 00005, setp 015, Reward -17.3, Distance 009.0, Crashed
+2023-02-23 14:37:33,476 - INFO - Env 01, Goal (-00.1, 000.3), Episode 00003, setp 028, Reward -17.0, Distance 008.7, Crashed
+2023-02-23 14:37:34,367 - INFO - Env 01, Goal (002.7, -07.4), Episode 00004, setp 007, Reward -15.8, Distance 009.3, Crashed
+2023-02-23 14:37:34,675 - INFO - Env 00, Goal (001.3, 004.2), Episode 00003, setp 068, Reward -6.4 , Distance 009.4, Crashed
+2023-02-23 14:37:38,406 - INFO - Env 00, Goal (002.1, 001.2), Episode 00004, setp 035, Reward -19.4, Distance 009.6, Crashed
+2023-02-23 14:37:39,869 - INFO - Env 02, Goal (007.4, 000.1), Episode 00004, setp 152, Reward 15.3 , Distance 009.9, Time out
+2023-02-23 14:37:41,180 - INFO - Env 04, Goal (007.3, 005.1), Episode 00006, setp 083, Reward -19.7, Distance 009.3, Crashed
+2023-02-23 14:37:45,680 - INFO - Env 02, Goal (001.1, 001.5), Episode 00005, setp 053, Reward -19.1, Distance 008.2, Crashed
+2023-02-23 14:37:46,776 - INFO - Env 03, Goal (007.8, -03.8), Episode 00005, setp 152, Reward -4.6 , Distance 009.5, Time out
+2023-02-23 14:37:48,191 - INFO - Env 00, Goal (007.6, 002.3), Episode 00005, setp 086, Reward -24.7, Distance 009.6, Crashed
+2023-02-23 14:37:51,473 - INFO - Env 01, Goal (002.8, -03.9), Episode 00005, setp 152, Reward 15.7 , Distance 008.4, Time out
+2023-02-23 14:37:53,879 - INFO - Env 03, Goal (-04.7, 002.4), Episode 00006, setp 064, Reward -21.0, Distance 009.1, Crashed
+2023-02-23 14:37:54,700 - INFO - Env 04, Goal (005.1, 000.8), Episode 00007, setp 121, Reward -27.0, Distance 008.7, Crashed
+2023-02-23 14:38:00,382 - INFO - Env 02, Goal (004.6, -01.5), Episode 00006, setp 132, Reward -21.9, Distance 009.7, Crashed
+2023-02-23 14:38:04,706 - INFO - Env 00, Goal (001.5, -04.9), Episode 00006, setp 152, Reward 0.8  , Distance 009.9, Time out
+2023-02-23 14:38:08,087 - INFO - Env 01, Goal (-06.3, 005.9), Episode 00006, setp 152, Reward 8.4  , Distance 009.6, Time out
+2023-02-23 14:38:09,100 - INFO - Env 00, Goal (007.5, -01.6), Episode 00007, setp 038, Reward -18.1, Distance 009.1, Crashed
+2023-02-23 14:38:10,878 - INFO - Env 03, Goal (-02.4, -04.6), Episode 00007, setp 152, Reward -5.6 , Distance 008.5, Time out
+2023-02-23 14:38:11,682 - INFO - Env 04, Goal (000.9, -04.0), Episode 00008, setp 152, Reward 0.0  , Distance 009.0, Time out
+2023-02-23 14:38:13,091 - INFO - Env 03, Goal (-05.5, 001.7), Episode 00008, setp 017, Reward -13.9, Distance 008.9, Crashed
+2023-02-23 14:38:14,572 - INFO - Env 00, Goal (-01.1, 001.6), Episode 00008, setp 045, Reward -17.6, Distance 008.2, Crashed
+2023-02-23 14:38:16,114 - INFO - Env 03, Goal (001.5, -00.9), Episode 00009, setp 026, Reward -17.5, Distance 008.8, Crashed
+2023-02-23 14:38:18,205 - INFO - Env 02, Goal (001.2, -05.7), Episode 00007, setp 152, Reward 8.3  , Distance 008.5, Time out
+2023-02-23 14:38:19,774 - INFO - Env 04, Goal (004.5, -01.2), Episode 00009, setp 068, Reward -19.0, Distance 008.3, Crashed
+2023-02-23 14:38:20,793 - INFO - Env 02, Goal (-05.4, -00.9), Episode 00008, setp 021, Reward -12.2, Distance 008.3, Crashed
+2023-02-23 14:38:26,281 - INFO - Env 01, Goal (004.7, 002.0), Episode 00007, setp 152, Reward 15.7 , Distance 008.8, Time out
+2023-02-23 14:38:27,506 - INFO - Env 04, Goal (000.2, -01.7), Episode 00010, setp 069, Reward -20.2, Distance 008.7, Crashed
+2023-02-23 14:38:28,681 - INFO - Env 00, Goal (-00.1, 008.3), Episode 00009, setp 121, Reward -26.8, Distance 008.3, Crashed
+2023-02-23 14:38:29,892 - INFO - Env 02, Goal (007.4, 005.0), Episode 00009, setp 080, Reward -6.0 , Distance 009.3, Crashed
+2023-02-23 14:38:33,604 - INFO - Env 03, Goal (-03.8, 004.6), Episode 00010, setp 152, Reward 7.6  , Distance 009.3, Time out
+2023-02-23 14:38:34,785 - INFO - Env 02, Goal (007.3, -00.9), Episode 00010, setp 044, Reward -20.5, Distance 009.8, Crashed
+2023-02-23 14:38:43,174 - INFO - Env 01, Goal (008.4, -03.0), Episode 00008, setp 152, Reward 8.6  , Distance 008.6, Time out
+2023-02-23 14:38:44,500 - INFO - Env 04, Goal (001.8, 004.7), Episode 00011, setp 152, Reward 13.9 , Distance 009.1, Time out
+2023-02-23 14:38:45,574 - INFO - Env 00, Goal (002.1, 003.4), Episode 00010, setp 152, Reward 19.3 , Distance 009.2, Time out
+2023-02-23 14:38:49,079 - INFO - Env 00, Goal (004.6, -05.8), Episode 00011, setp 034, Reward -18.8, Distance 009.5, Crashed
+2023-02-23 14:38:50,362 - INFO - Env 03, Goal (004.7, 004.6), Episode 00011, setp 152, Reward -5.7 , Distance 008.7, Time out
+2023-02-23 14:38:51,474 - INFO - Env 02, Goal (003.5, 003.4), Episode 00011, setp 152, Reward 12.0 , Distance 010.0, Time out
+2023-02-23 14:38:54,671 - INFO - Env 01, Goal (-00.6, -06.9), Episode 00009, setp 101, Reward -26.6, Distance 009.4, Crashed
+2023-02-23 14:39:00,998 - INFO - Env 04, Goal (-07.3, -02.7), Episode 00012, setp 152, Reward -17.4, Distance 008.1, Time out
+2023-02-23 14:39:01,706 - INFO - Env 04, Goal (-06.8, -01.0), Episode 00013, setp 005, Reward -15.3, Distance 009.6, Crashed
+2023-02-23 14:39:03,410 - INFO - Env 04, Goal (-07.6, 001.7), Episode 00014, setp 015, Reward -13.7, Distance 009.5, Crashed
+2023-02-23 14:39:05,307 - INFO - Env 04, Goal (-02.6, 000.2), Episode 00015, setp 017, Reward -16.6, Distance 008.9, Crashed
+2023-02-23 14:39:06,364 - INFO - Env 00, Goal (-01.2, 001.1), Episode 00012, setp 152, Reward 7.1  , Distance 008.2, Time out
+2023-02-23 14:39:07,670 - INFO - Env 03, Goal (004.0, 006.5), Episode 00012, setp 152, Reward 13.7 , Distance 008.3, Time out
+2023-02-23 14:39:08,891 - INFO - Env 02, Goal (-02.1, 002.1), Episode 00012, setp 152, Reward 13.8 , Distance 009.7, Time out
+2023-02-23 14:39:11,197 - INFO - Env 04, Goal (002.0, -04.3), Episode 00016, setp 048, Reward -21.3, Distance 009.4, Crashed
+2023-02-23 14:39:12,389 - INFO - Env 01, Goal (-01.1, -04.6), Episode 00010, setp 152, Reward 8.9  , Distance 008.4, Time out
+2023-02-23 14:39:12,789 - INFO - Env 01, Goal (-00.7, -06.0), Episode 00011, setp 002, Reward -15.0, Distance 008.8, Crashed
+2023-02-23 14:39:13,509 - INFO - Env 01, Goal (-06.3, -04.0), Episode 00012, setp 005, Reward -14.9, Distance 008.8, Crashed
+2023-02-23 14:39:20,289 - INFO - Env 03, Goal (-02.4, 005.6), Episode 00013, setp 110, Reward -12.5, Distance 009.3, Crashed
+2023-02-23 14:39:23,782 - INFO - Env 00, Goal (007.5, 004.7), Episode 00013, setp 152, Reward -13.7, Distance 008.3, Time out
+2023-02-23 14:39:25,877 - INFO - Env 02, Goal (-03.2, 006.8), Episode 00013, setp 152, Reward 7.2  , Distance 008.8, Time out
+2023-02-23 14:39:26,906 - INFO - Env 03, Goal (002.7, 004.3), Episode 00014, setp 060, Reward -19.8, Distance 008.0, Crashed
+2023-02-23 14:39:28,305 - INFO - Env 04, Goal (-06.0, 006.7), Episode 00017, setp 152, Reward 10.9 , Distance 008.3, Time out
+2023-02-23 14:39:30,001 - INFO - Env 01, Goal (-01.7, 006.0), Episode 00013, setp 152, Reward 6.2  , Distance 009.7, Time out
+2023-02-23 14:39:33,676 - INFO - Env 04, Goal (002.3, -03.9), Episode 00018, setp 050, Reward -20.8, Distance 009.1, Crashed
+2023-02-23 14:39:37,998 - INFO - Env 03, Goal (004.1, 007.8), Episode 00015, setp 101, Reward -27.3, Distance 008.4, Crashed
+2023-02-23 14:39:40,691 - INFO - Env 00, Goal (005.2, -05.7), Episode 00014, setp 152, Reward 15.2 , Distance 009.4, Time out
+2023-02-23 14:39:42,890 - INFO - Env 02, Goal (002.1, 002.3), Episode 00014, setp 152, Reward 14.9 , Distance 008.4, Time out
+2023-02-23 14:39:46,491 - INFO - Env 01, Goal (002.0, 000.8), Episode 00014, setp 152, Reward 2.7  , Distance 008.1, Time out
+2023-02-23 14:39:46,891 - INFO - Env 01, Goal (003.2, -01.3), Episode 00015, setp 002, Reward -15.0, Distance 008.8, Crashed
+2023-02-23 14:39:47,501 - INFO - Env 01, Goal (001.8, 000.3), Episode 00016, setp 005, Reward -14.9, Distance 009.9, Crashed
+2023-02-23 14:39:50,685 - INFO - Env 04, Goal (-03.1, 000.8), Episode 00019, setp 152, Reward 4.7  , Distance 008.4, Time out
+2023-02-23 14:39:51,092 - INFO - Env 01, Goal (002.1, -05.0), Episode 00017, setp 032, Reward -18.8, Distance 009.3, Crashed
+2023-02-23 14:39:55,197 - INFO - Env 03, Goal (005.0, 000.2), Episode 00016, setp 152, Reward 16.2 , Distance 009.9, Time out
+2023-02-23 14:39:56,197 - INFO - Env 03, Goal (-06.0, -02.8), Episode 00017, setp 009, Reward -14.3, Distance 008.4, Crashed
+2023-02-23 14:39:58,106 - INFO - Env 00, Goal (006.4, 006.1), Episode 00015, setp 152, Reward -5.6 , Distance 009.9, Time out
+2023-02-23 14:40:00,290 - INFO - Env 02, Goal (-07.2, -02.6), Episode 00015, setp 152, Reward 16.4 , Distance 008.6, Time out
+2023-02-23 14:40:04,173 - INFO - Env 04, Goal (-02.9, 004.0), Episode 00020, setp 120, Reward -4.9 , Distance 009.2, Crashed
+2023-02-23 14:40:06,482 - INFO - Env 04, Goal (007.5, 002.8), Episode 00021, setp 021, Reward -12.4, Distance 008.7, Crashed
+2023-02-23 14:40:07,979 - INFO - Env 01, Goal (-01.9, 005.9), Episode 00018, setp 152, Reward 12.5 , Distance 008.8, Time out
+2023-02-23 14:40:09,069 - INFO - Env 01, Goal (003.4, 000.6), Episode 00019, setp 009, Reward -14.8, Distance 008.8, Crashed
+2023-02-23 14:40:13,080 - INFO - Env 03, Goal (004.4, 003.5), Episode 00018, setp 152, Reward 16.3 , Distance 008.6, Time out
+2023-02-23 14:40:14,805 - INFO - Env 02, Goal (001.8, -07.3), Episode 00016, setp 131, Reward -9.1 , Distance 009.8, Crashed
+2023-02-23 14:40:15,202 - INFO - Env 00, Goal (004.6, 002.2), Episode 00016, setp 152, Reward 12.1 , Distance 009.6, Time out
+2023-02-23 14:40:23,080 - INFO - Env 04, Goal (006.1, 005.6), Episode 00022, setp 152, Reward -11.1, Distance 009.0, Time out
+2023-02-23 14:40:25,490 - INFO - Env 01, Goal (-04.5, -02.8), Episode 00020, setp 152, Reward 17.5 , Distance 009.9, Time out
+2023-02-23 14:40:25,491 - INFO - Env 00, Goal (-06.5, -05.8), Episode 00017, setp 098, Reward -17.6, Distance 008.4, Crashed
+2023-02-23 14:40:27,100 - INFO - Env 01, Goal (-05.4, 005.6), Episode 00021, setp 015, Reward -16.6, Distance 008.6, Crashed
+2023-02-23 14:40:28,089 - INFO - Env 00, Goal (-01.7, -05.1), Episode 00018, setp 022, Reward -13.0, Distance 008.3, Crashed
+2023-02-23 14:40:29,975 - INFO - Env 03, Goal (000.9, 002.2), Episode 00019, setp 152, Reward 12.9 , Distance 009.4, Time out
+2023-02-23 14:40:31,702 - INFO - Env 02, Goal (-00.7, -06.1), Episode 00017, setp 152, Reward -7.9 , Distance 008.0, Time out
+2023-02-23 14:40:32,302 - INFO - Env 00, Goal (-03.9, 002.5), Episode 00019, setp 036, Reward -11.1, Distance 008.4, Crashed
+2023-02-23 14:40:37,374 - INFO - Env 01, Goal (005.0, 004.2), Episode 00022, setp 091, Reward -24.9, Distance 009.7, Crashed
+2023-02-23 14:40:37,676 - INFO - Env 01, Goal (001.9, -08.3), Episode 00023, setp 002, Reward -15.0, Distance 008.3, Crashed
+2023-02-23 14:40:40,079 - INFO - Env 04, Goal (000.9, -01.9), Episode 00023, setp 148, Reward 1.7  , Distance 008.1, Crashed
+2023-02-23 14:40:42,977 - INFO - Env 02, Goal (-00.8, 005.5), Episode 00018, setp 102, Reward -24.5, Distance 008.3, Crashed
+2023-02-23 14:40:46,810 - INFO - Env 03, Goal (-04.8, 007.4), Episode 00020, setp 152, Reward -2.8 , Distance 009.3, Time out
+2023-02-23 14:40:47,913 - INFO - Env 04, Goal (000.5, 008.4), Episode 00024, setp 072, Reward -11.3, Distance 008.5, Crashed
+2023-02-23 14:40:49,293 - INFO - Env 00, Goal (005.1, 003.3), Episode 00020, setp 152, Reward 1.4  , Distance 009.2, Time out
+2023-02-23 14:40:54,364 - INFO - Env 01, Goal (-02.3, -02.4), Episode 00024, setp 152, Reward 17.3 , Distance 009.9, Time out
+2023-02-23 14:40:57,275 - INFO - Env 00, Goal (-03.7, 002.5), Episode 00021, setp 076, Reward -22.4, Distance 008.9, Crashed
+2023-02-23 14:40:59,705 - INFO - Env 02, Goal (003.1, -00.1), Episode 00019, setp 152, Reward 12.6 , Distance 009.0, Time out
+2023-02-23 14:41:03,668 - INFO - Env 02, Goal (005.6, 005.7), Episode 00020, setp 037, Reward -18.9, Distance 009.4, Crashed
+2023-02-23 14:41:03,668 - INFO - Env 03, Goal (003.6, -03.9), Episode 00021, setp 152, Reward 13.0 , Distance 008.3, Time out
+2023-02-23 14:41:04,813 - INFO - Env 04, Goal (-00.9, 008.7), Episode 00025, setp 152, Reward 16.8 , Distance 009.7, Time out
+2023-02-23 14:41:05,189 - INFO - Env 04, Goal (-02.2, 003.0), Episode 00026, setp 002, Reward -15.0, Distance 009.1, Crashed
+2023-02-23 14:41:11,202 - INFO - Env 01, Goal (-06.9, -04.7), Episode 00025, setp 152, Reward 8.4  , Distance 008.1, Time out
+2023-02-23 14:41:11,202 - INFO - Env 03, Goal (000.7, -04.3), Episode 00022, setp 068, Reward -19.6, Distance 008.1, Crashed
+2023-02-23 14:41:14,114 - INFO - Env 00, Goal (002.7, 002.5), Episode 00022, setp 152, Reward 15.5 , Distance 009.4, Time out
+2023-02-23 14:41:20,194 - INFO - Env 02, Goal (006.6, -01.6), Episode 00021, setp 152, Reward -2.6 , Distance 008.5, Time out
+2023-02-23 14:41:21,376 - INFO - Env 04, Goal (-08.6, 000.5), Episode 00027, setp 152, Reward -0.9 , Distance 009.4, Time out
+2023-02-23 14:41:25,212 - INFO - Env 03, Goal (-04.2, 003.2), Episode 00023, setp 130, Reward -7.1 , Distance 008.3, Crashed
+2023-02-23 14:41:27,707 - INFO - Env 01, Goal (-00.0, -04.7), Episode 00026, setp 152, Reward 15.1 , Distance 009.6, Time out
+2023-02-23 14:41:28,090 - INFO - Env 01, Goal (003.3, -03.3), Episode 00027, setp 002, Reward -15.0, Distance 008.1, Crashed
+2023-02-23 14:41:28,566 - INFO - Env 04, Goal (-00.7, -05.2), Episode 00028, setp 062, Reward -22.3, Distance 009.4, Crashed
+2023-02-23 14:41:29,906 - INFO - Env 04, Goal (007.2, -03.7), Episode 00029, setp 011, Reward -15.5, Distance 009.1, Crashed
+2023-02-23 14:41:30,177 - INFO - Env 04, Goal (-02.7, 003.3), Episode 00030, setp 002, Reward -15.0, Distance 008.6, Crashed
+2023-02-23 14:41:30,588 - INFO - Env 00, Goal (-00.1, 005.7), Episode 00023, setp 141, Reward -31.4, Distance 008.4, Crashed
+2023-02-23 14:41:37,868 - INFO - Env 02, Goal (005.6, 006.0), Episode 00022, setp 152, Reward 2.5  , Distance 009.2, Time out
+2023-02-23 14:41:38,291 - INFO - Env 02, Goal (002.2, -00.2), Episode 00023, setp 002, Reward -15.0, Distance 008.1, Crashed
+2023-02-23 14:41:42,966 - INFO - Env 03, Goal (-02.9, -04.4), Episode 00024, setp 152, Reward 14.9 , Distance 009.9, Time out
+2023-02-23 14:41:44,695 - INFO - Env 03, Goal (001.0, -01.4), Episode 00025, setp 015, Reward -16.2, Distance 009.6, Crashed
+2023-02-23 14:41:45,090 - INFO - Env 01, Goal (-02.9, 006.5), Episode 00028, setp 144, Reward -9.9 , Distance 008.2, Crashed
+2023-02-23 14:41:45,090 - INFO - Env 03, Goal (001.8, -05.8), Episode 00026, setp 002, Reward -15.0, Distance 008.2, Crashed
+2023-02-23 14:41:47,498 - INFO - Env 04, Goal (-01.5, -01.7), Episode 00031, setp 152, Reward 14.4 , Distance 008.5, Time out
+2023-02-23 14:41:47,799 - INFO - ########################## model saved when update 20 times#########################
+2023-02-23 14:41:47,800 - INFO - Env 00, Goal (-04.7, -00.4), Episode 00024, setp 152, Reward 2.1  , Distance 009.4, Time out
+2023-02-23 14:41:48,201 - INFO - Env 03, Goal (002.5, 003.8), Episode 00027, setp 025, Reward -18.2, Distance 009.1, Crashed
+2023-02-23 14:41:48,718 - INFO - ########################## model saved when update 20 times#########################
+2023-02-23 14:41:48,718 - INFO - Env 00, Goal (001.0, -01.8), Episode 00025, setp 006, Reward -15.4, Distance 009.2, Crashed
+2023-02-23 14:41:55,403 - INFO - Env 02, Goal (002.0, -04.9), Episode 00024, setp 152, Reward 16.5 , Distance 009.5, Time out
+2023-02-23 14:42:01,688 - INFO - Env 01, Goal (-02.2, 000.3), Episode 00029, setp 152, Reward 7.7  , Distance 009.7, Time out
+2023-02-23 14:42:03,975 - INFO - Env 04, Goal (004.2, -02.8), Episode 00032, setp 152, Reward 13.2 , Distance 008.6, Time out
+2023-02-23 14:42:04,471 - INFO - Env 03, Goal (007.5, 003.9), Episode 00028, setp 152, Reward 17.2 , Distance 009.2, Time out
+2023-02-23 14:42:04,979 - INFO - Env 00, Goal (-08.1, -01.4), Episode 00026, setp 152, Reward 12.8 , Distance 010.0, Time out
+2023-02-23 14:42:05,510 - INFO - Env 01, Goal (-00.4, -02.8), Episode 00030, setp 030, Reward -19.2, Distance 010.0, Crashed
+2023-02-23 14:42:08,292 - INFO - Env 01, Goal (-00.7, 000.4), Episode 00031, setp 027, Reward -16.6, Distance 009.2, Crashed
+2023-02-23 14:42:09,289 - INFO - Env 01, Goal (000.6, 004.9), Episode 00032, setp 008, Reward -16.2, Distance 009.8, Crashed
+2023-02-23 14:42:12,481 - INFO - Env 02, Goal (001.8, 003.4), Episode 00025, setp 152, Reward 9.8  , Distance 009.1, Time out
+2023-02-23 14:42:13,283 - INFO - Env 02, Goal (000.6, -07.8), Episode 00026, setp 006, Reward -15.1, Distance 009.8, Crashed
+2023-02-23 14:42:16,207 - INFO - Env 04, Goal (001.7, -05.8), Episode 00033, setp 102, Reward -26.0, Distance 008.6, Crashed
+2023-02-23 14:42:21,685 - INFO - Env 03, Goal (007.9, 000.2), Episode 00029, setp 152, Reward -7.8 , Distance 008.1, Time out
+2023-02-23 14:42:22,176 - INFO - Env 00, Goal (-00.6, 003.1), Episode 00027, setp 152, Reward 20.1 , Distance 009.0, Time out
+2023-02-23 14:42:25,891 - INFO - Env 01, Goal (-04.2, -03.2), Episode 00033, setp 152, Reward 7.6  , Distance 009.5, Time out
+2023-02-23 14:42:26,292 - INFO - Env 01, Goal (-03.6, -02.7), Episode 00034, setp 002, Reward -15.0, Distance 009.3, Crashed
+2023-02-23 14:42:29,075 - INFO - Env 03, Goal (-04.0, 001.8), Episode 00030, setp 065, Reward -14.3, Distance 009.4, Crashed
+2023-02-23 14:42:29,075 - INFO - Env 02, Goal (005.4, 000.2), Episode 00027, setp 143, Reward -14.2, Distance 008.4, Crashed
+2023-02-23 14:42:32,883 - INFO - Env 04, Goal (000.5, 006.2), Episode 00034, setp 152, Reward 13.9 , Distance 009.4, Time out
+2023-02-23 14:42:38,767 - INFO - Env 00, Goal (006.8, 001.3), Episode 00028, setp 152, Reward 14.1 , Distance 009.9, Time out
+2023-02-23 14:42:42,148 - INFO - Env 00, Goal (003.6, 000.9), Episode 00029, setp 012, Reward -15.6, Distance 008.3, Crashed
+2023-02-23 14:42:42,947 - INFO - Env 04, Goal (-07.9, 002.4), Episode 00035, setp 074, Reward -11.4, Distance 008.7, Crashed
+2023-02-23 14:42:43,344 - INFO - Env 04, Goal (-00.5, -04.0), Episode 00036, setp 002, Reward -15.0, Distance 008.4, Crashed
+2023-02-23 14:42:43,344 - INFO - Env 02, Goal (-02.6, -04.1), Episode 00028, setp 109, Reward -17.4, Distance 009.1, Crashed
+2023-02-23 14:42:45,462 - INFO - Env 01, Goal (-02.2, 008.2), Episode 00035, setp 152, Reward 11.1 , Distance 008.2, Time out
+2023-02-23 14:42:45,846 - INFO - Env 01, Goal (000.6, -01.2), Episode 00036, setp 002, Reward -15.0, Distance 008.7, Crashed
+2023-02-23 14:42:46,133 - INFO - Env 01, Goal (-01.6, 000.2), Episode 00037, setp 002, Reward -15.0, Distance 008.5, Crashed
+2023-02-23 14:42:48,463 - INFO - Env 00, Goal (-06.7, 002.3), Episode 00030, setp 047, Reward -21.3, Distance 009.7, Crashed
+2023-02-23 14:42:49,057 - INFO - Env 03, Goal (002.4, 003.0), Episode 00031, setp 152, Reward 10.9 , Distance 010.0, Time out
+2023-02-23 14:42:49,650 - INFO - Env 00, Goal (002.4, -02.4), Episode 00031, setp 009, Reward -14.5, Distance 009.5, Crashed
+2023-02-23 14:42:50,046 - INFO - Env 00, Goal (-02.8, 008.4), Episode 00032, setp 002, Reward -15.0, Distance 009.6, Crashed
+2023-02-23 14:42:51,522 - INFO - Env 00, Goal (002.0, 004.9), Episode 00033, setp 013, Reward -15.8, Distance 010.0, Crashed
+2023-02-23 14:42:51,832 - INFO - Env 02, Goal (-02.5, -08.1), Episode 00029, setp 062, Reward -12.0, Distance 009.1, Crashed
+2023-02-23 14:42:51,833 - INFO - Env 00, Goal (-03.2, 005.3), Episode 00034, setp 002, Reward -15.0, Distance 009.1, Crashed
+2023-02-23 14:42:52,134 - INFO - Env 01, Goal (002.6, 003.5), Episode 00038, setp 043, Reward -19.0, Distance 009.5, Crashed
+2023-02-23 14:42:55,460 - INFO - Env 03, Goal (000.9, -04.7), Episode 00032, setp 051, Reward -19.5, Distance 009.6, Crashed
+2023-02-23 14:43:00,770 - INFO - Env 04, Goal (-05.3, -04.0), Episode 00037, setp 145, Reward -1.8 , Distance 009.5, Crashed
+2023-02-23 14:43:02,523 - INFO - Env 03, Goal (-05.0, 001.3), Episode 00033, setp 066, Reward -6.9 , Distance 009.5, Crashed
+2023-02-23 14:43:05,463 - INFO - Env 04, Goal (002.7, 000.6), Episode 00038, setp 041, Reward -17.9, Distance 009.1, Crashed
+2023-02-23 14:43:07,123 - INFO - Env 04, Goal (001.1, 001.4), Episode 00039, setp 015, Reward -13.5, Distance 009.2, Crashed
+2023-02-23 14:43:08,824 - INFO - Env 02, Goal (002.2, -01.6), Episode 00030, setp 152, Reward 16.9 , Distance 009.8, Time out
+2023-02-23 14:43:08,824 - INFO - Env 00, Goal (002.1, -04.8), Episode 00035, setp 152, Reward 16.0 , Distance 008.5, Time out
+2023-02-23 14:43:09,244 - INFO - Env 01, Goal (003.1, -04.0), Episode 00039, setp 152, Reward 18.8 , Distance 009.5, Time out
+2023-02-23 14:43:09,533 - INFO - Env 00, Goal (000.7, 001.3), Episode 00036, setp 003, Reward -15.1, Distance 009.1, Crashed
+2023-02-23 14:43:11,532 - INFO - Env 04, Goal (-02.0, 000.8), Episode 00040, setp 034, Reward -16.2, Distance 009.6, Crashed
+2023-02-23 14:43:14,930 - INFO - Env 00, Goal (-02.7, -01.9), Episode 00037, setp 049, Reward -12.7, Distance 008.6, Crashed
+2023-02-23 14:43:19,064 - INFO - Env 01, Goal (-08.1, 001.0), Episode 00040, setp 087, Reward -6.2 , Distance 009.8, Crashed
+2023-02-23 14:43:20,365 - INFO - Env 03, Goal (-05.4, 001.2), Episode 00034, setp 152, Reward 17.7 , Distance 009.5, Time out
+2023-02-23 14:43:20,747 - INFO - Env 03, Goal (-06.1, -04.2), Episode 00035, setp 002, Reward -15.0, Distance 009.2, Crashed
+2023-02-23 14:43:26,250 - INFO - Env 02, Goal (-05.2, 004.3), Episode 00031, setp 152, Reward 4.8  , Distance 008.4, Time out
+2023-02-23 14:43:28,323 - INFO - Env 03, Goal (-07.6, 003.2), Episode 00036, setp 073, Reward -14.8, Distance 009.5, Crashed
+2023-02-23 14:43:28,323 - INFO - Env 04, Goal (002.7, -07.2), Episode 00041, setp 152, Reward 11.6 , Distance 008.2, Time out
+2023-02-23 14:43:30,859 - INFO - Env 02, Goal (-01.3, 001.8), Episode 00032, setp 042, Reward -18.0, Distance 008.7, Crashed
+2023-02-23 14:43:32,070 - INFO - Env 00, Goal (-00.2, 005.8), Episode 00038, setp 152, Reward 5.9  , Distance 008.7, Time out
+2023-02-23 14:43:35,927 - INFO - Env 01, Goal (003.5, -03.4), Episode 00041, setp 152, Reward 16.6 , Distance 008.3, Time out
+2023-02-23 14:43:35,928 - INFO - Env 04, Goal (002.3, -03.7), Episode 00042, setp 069, Reward -12.4, Distance 008.3, Crashed
+2023-02-23 14:43:36,348 - INFO - Env 04, Goal (-00.5, 001.9), Episode 00043, setp 002, Reward -15.0, Distance 009.3, Crashed
+2023-02-23 14:43:36,747 - INFO - Env 04, Goal (005.0, 001.6), Episode 00044, setp 002, Reward -15.0, Distance 008.2, Crashed
+2023-02-23 14:43:38,130 - INFO - Env 04, Goal (002.4, 007.5), Episode 00045, setp 012, Reward -14.1, Distance 008.5, Crashed
+2023-02-23 14:43:42,858 - INFO - Env 04, Goal (-03.7, -06.1), Episode 00046, setp 045, Reward -19.3, Distance 009.7, Crashed
+2023-02-23 14:43:45,750 - INFO - Env 03, Goal (004.6, -05.4), Episode 00037, setp 152, Reward 19.2 , Distance 009.8, Time out
+2023-02-23 14:43:47,053 - INFO - Env 03, Goal (000.7, 000.3), Episode 00038, setp 011, Reward -14.4, Distance 008.9, Crashed
+2023-02-23 14:43:48,568 - INFO - Env 02, Goal (-01.8, 002.4), Episode 00033, setp 152, Reward 17.3 , Distance 009.7, Time out
+2023-02-23 14:43:49,730 - INFO - Env 00, Goal (003.5, 002.7), Episode 00039, setp 152, Reward 8.3  , Distance 009.8, Time out
+2023-02-23 14:43:51,555 - INFO - Env 02, Goal (-05.7, -00.4), Episode 00034, setp 026, Reward -17.2, Distance 009.3, Crashed
+2023-02-23 14:43:53,859 - INFO - Env 00, Goal (002.8, -08.3), Episode 00040, setp 037, Reward -19.9, Distance 008.6, Crashed
+2023-02-23 14:43:54,132 - INFO - Env 01, Goal (-07.1, -03.0), Episode 00042, setp 152, Reward 15.7 , Distance 008.2, Time out
+2023-02-23 14:43:54,545 - INFO - Env 01, Goal (-01.1, -03.4), Episode 00043, setp 002, Reward -15.0, Distance 008.3, Crashed
+2023-02-24 14:24:23,754 - INFO - #####################################
+2023-02-24 14:24:23,755 - INFO - ############Start Training###########
+2023-02-24 14:24:23,755 - INFO - #####################################
+2023-02-24 14:24:28,522 - INFO - Env 03, Goal (-04.7, 003.4), Episode 00001, setp 038, Reward -12.8, Distance 009.1, Crashed
+2023-02-24 14:24:32,608 - INFO - Env 00, Goal (-01.7, 008.1), Episode 00001, setp 077, Reward -22.1, Distance 008.7, Crashed
+2023-02-24 14:24:36,699 - INFO - Env 00, Goal (-04.5, -05.9), Episode 00002, setp 040, Reward -18.7, Distance 009.4, Crashed
+2023-02-24 14:24:40,730 - INFO - Env 01, Goal (003.8, -03.8), Episode 00001, setp 152, Reward 19.7 , Distance 009.3, Time out
+2023-02-24 14:24:40,730 - INFO - Env 02, Goal (-03.7, -05.8), Episode 00001, setp 152, Reward 1.0  , Distance 008.6, Time out
+2023-02-24 14:24:40,731 - INFO - Env 04, Goal (-03.9, -00.6), Episode 00001, setp 152, Reward 12.2 , Distance 008.7, Time out
+2023-02-24 14:24:40,731 - INFO - Env 00, Goal (001.6, -03.1), Episode 00003, setp 037, Reward -17.6, Distance 009.1, Crashed
+2023-02-24 14:24:43,604 - INFO - Env 03, Goal (-00.8, 005.2), Episode 00002, setp 142, Reward 33.7 , Distance 008.0, Reach Goal
+2023-02-24 14:24:51,903 - INFO - Env 02, Goal (002.5, 006.2), Episode 00002, setp 108, Reward -26.6, Distance 009.5, Crashed
+2023-02-24 14:24:52,789 - INFO - Env 03, Goal (-00.4, 005.3), Episode 00003, setp 087, Reward -17.6, Distance 009.6, Crashed
+2023-02-24 14:24:53,214 - INFO - Env 03, Goal (001.7, 003.2), Episode 00004, setp 002, Reward -15.0, Distance 009.6, Crashed
+2023-02-24 14:24:53,501 - INFO - Env 03, Goal (000.2, -02.5), Episode 00005, setp 002, Reward -15.0, Distance 008.2, Crashed
+2023-02-24 14:24:53,501 - INFO - Env 02, Goal (-01.3, -03.3), Episode 00003, setp 009, Reward -13.8, Distance 009.2, Crashed
+2023-02-24 14:24:55,897 - INFO - Env 03, Goal (-03.6, -00.3), Episode 00006, setp 023, Reward -14.5, Distance 009.4, Crashed
+2023-02-24 14:24:56,201 - INFO - Env 03, Goal (008.5, 002.6), Episode 00007, setp 002, Reward -15.0, Distance 008.4, Crashed
+2023-02-24 14:24:57,737 - INFO - Env 01, Goal (-03.4, -01.3), Episode 00002, setp 152, Reward 15.8 , Distance 008.2, Time out
+2023-02-24 14:24:57,737 - INFO - Env 04, Goal (-01.6, -04.9), Episode 00002, setp 152, Reward 16.2 , Distance 009.9, Time out
+2023-02-24 14:24:57,738 - INFO - Env 00, Goal (002.0, -03.3), Episode 00004, setp 152, Reward -1.1 , Distance 009.4, Time out
+2023-02-24 14:24:58,916 - INFO - Env 00, Goal (-04.0, 005.8), Episode 00005, setp 010, Reward -16.1, Distance 009.6, Crashed
+2023-02-24 14:25:05,533 - INFO - Env 03, Goal (-01.7, -08.0), Episode 00008, setp 086, Reward -20.4, Distance 008.6, Crashed
+2023-02-24 14:25:07,633 - INFO - Env 01, Goal (003.1, -03.3), Episode 00003, setp 090, Reward -18.2, Distance 008.7, Crashed
+2023-02-24 14:25:08,014 - INFO - Env 03, Goal (-03.5, -05.8), Episode 00009, setp 019, Reward -12.6, Distance 008.3, Crashed
+2023-02-24 14:25:08,014 - INFO - Env 01, Goal (000.3, 007.3), Episode 00004, setp 002, Reward -15.0, Distance 009.2, Crashed
+2023-02-24 14:25:08,417 - INFO - Env 02, Goal (005.1, 006.0), Episode 00004, setp 128, Reward -30.9, Distance 008.6, Crashed
+2023-02-24 14:25:08,700 - INFO - Env 02, Goal (-00.4, -04.9), Episode 00005, setp 002, Reward -15.0, Distance 009.6, Crashed
+2023-02-24 14:25:12,942 - INFO - Env 01, Goal (002.9, -04.8), Episode 00005, setp 043, Reward -19.9, Distance 008.8, Crashed
+2023-02-24 14:25:13,315 - INFO - Env 01, Goal (008.9, 000.1), Episode 00006, setp 002, Reward -15.0, Distance 009.7, Crashed
+2023-02-24 14:25:15,305 - INFO - Env 04, Goal (001.3, -04.8), Episode 00003, setp 152, Reward 10.3 , Distance 008.9, Time out
+2023-02-24 14:25:16,499 - INFO - Env 00, Goal (003.6, -01.8), Episode 00006, setp 152, Reward -1.8 , Distance 009.0, Time out
+2023-02-24 14:25:16,914 - INFO - Env 00, Goal (-02.7, -02.3), Episode 00007, setp 002, Reward -15.0, Distance 009.5, Crashed
+2023-02-24 14:25:18,323 - INFO - Env 00, Goal (-03.8, 001.2), Episode 00008, setp 013, Reward -15.5, Distance 010.0, Crashed
+2023-02-24 14:25:18,929 - INFO - Env 01, Goal (-01.8, 000.1), Episode 00007, setp 045, Reward -19.5, Distance 009.1, Crashed
+2023-02-24 14:25:21,495 - INFO - Env 01, Goal (-00.8, 000.7), Episode 00008, setp 024, Reward -16.8, Distance 009.7, Crashed
+2023-02-24 14:25:25,914 - INFO - Env 03, Goal (006.7, 005.0), Episode 00010, setp 151, Reward -22.0, Distance 008.1, Crashed
+2023-02-24 14:25:26,403 - INFO - Env 02, Goal (-02.5, -04.0), Episode 00006, setp 152, Reward 14.4 , Distance 009.8, Time out
+2023-02-24 14:25:32,636 - INFO - Env 04, Goal (005.4, 004.3), Episode 00004, setp 152, Reward 13.0 , Distance 008.7, Time out
+2023-02-24 14:25:35,127 - INFO - Env 00, Goal (001.3, -02.6), Episode 00009, setp 152, Reward 18.5 , Distance 008.6, Time out
+2023-02-24 14:25:38,129 - INFO - Env 01, Goal (-04.6, 001.3), Episode 00009, setp 152, Reward -2.8 , Distance 008.2, Time out
+2023-02-24 14:25:38,588 - INFO - Env 03, Goal (002.7, 006.1), Episode 00011, setp 114, Reward -11.5, Distance 008.8, Crashed
+2023-02-24 14:25:39,905 - INFO - Env 02, Goal (-03.2, -04.2), Episode 00007, setp 122, Reward -6.2 , Distance 009.8, Crashed
+2023-02-24 14:25:41,198 - INFO - Env 01, Goal (001.4, -05.3), Episode 00010, setp 025, Reward -18.0, Distance 009.0, Crashed
+2023-02-24 14:25:46,132 - INFO - Env 02, Goal (-05.6, 005.3), Episode 00008, setp 058, Reward -21.5, Distance 008.1, Crashed
+2023-02-24 14:25:48,924 - INFO - Env 01, Goal (-05.5, -02.9), Episode 00011, setp 072, Reward -11.3, Distance 008.4, Crashed
+2023-02-24 14:25:49,917 - INFO - Env 04, Goal (-03.6, -03.9), Episode 00005, setp 152, Reward -13.3, Distance 009.1, Time out
+2023-02-24 14:25:51,810 - INFO - Env 03, Goal (003.6, -01.0), Episode 00012, setp 116, Reward -21.9, Distance 008.5, Crashed
+2023-02-24 14:25:52,702 - INFO - Env 00, Goal (004.7, -00.4), Episode 00010, setp 152, Reward 0.4  , Distance 008.8, Time out
+2023-02-24 14:25:55,524 - INFO - Env 01, Goal (003.4, -04.5), Episode 00012, setp 055, Reward -22.8, Distance 009.3, Crashed
+2023-02-24 14:25:55,914 - INFO - Env 01, Goal (006.2, 001.0), Episode 00013, setp 002, Reward -15.0, Distance 009.6, Crashed
+2023-02-24 14:26:00,890 - INFO - Env 03, Goal (004.4, -04.0), Episode 00013, setp 082, Reward -4.6 , Distance 009.7, Crashed
+2023-02-24 14:26:03,519 - INFO - Env 02, Goal (-02.9, -03.7), Episode 00009, setp 152, Reward 18.3 , Distance 008.9, Time out
+2023-02-24 14:26:07,011 - INFO - Env 04, Goal (-02.1, 008.4), Episode 00006, setp 152, Reward -8.6 , Distance 008.2, Time out
+2023-02-24 14:26:07,813 - INFO - Env 02, Goal (-00.7, -08.1), Episode 00010, setp 038, Reward -18.1, Distance 009.2, Crashed
+2023-02-24 14:26:09,701 - INFO - Env 00, Goal (-03.9, 007.3), Episode 00011, setp 152, Reward -16.1, Distance 008.0, Time out
+2023-02-24 14:26:12,594 - INFO - Env 01, Goal (002.3, -05.4), Episode 00014, setp 152, Reward 13.4 , Distance 009.1, Time out
+2023-02-24 14:26:13,029 - INFO - Env 00, Goal (-06.9, 003.9), Episode 00012, setp 029, Reward -18.3, Distance 008.8, Crashed
+2023-02-24 14:26:14,105 - INFO - Env 04, Goal (-02.6, -03.5), Episode 00007, setp 060, Reward -23.0, Distance 009.5, Crashed
+2023-02-24 14:26:14,514 - INFO - Env 04, Goal (002.5, 003.3), Episode 00008, setp 002, Reward -15.0, Distance 009.6, Crashed
+2023-02-24 14:26:16,820 - INFO - Env 03, Goal (000.9, -04.9), Episode 00014, setp 136, Reward -24.6, Distance 008.7, Crashed
+2023-02-24 14:26:23,305 - INFO - Env 01, Goal (001.8, -01.6), Episode 00015, setp 095, Reward -15.5, Distance 008.7, Crashed
+2023-02-24 14:26:24,405 - INFO - Env 00, Goal (007.4, -00.6), Episode 00013, setp 102, Reward -25.7, Distance 008.2, Crashed
+2023-02-24 14:26:25,103 - INFO - Env 02, Goal (-04.9, -04.9), Episode 00011, setp 152, Reward 9.7  , Distance 009.6, Time out
+2023-02-24 14:26:30,916 - INFO - Env 04, Goal (-01.1, 005.0), Episode 00009, setp 152, Reward 17.8 , Distance 009.9, Time out
+2023-02-24 14:26:32,521 - INFO - Env 00, Goal (006.1, -05.3), Episode 00014, setp 074, Reward -15.1, Distance 008.1, Crashed
+2023-02-24 14:26:32,991 - INFO - Env 00, Goal (004.8, -00.8), Episode 00015, setp 003, Reward -15.0, Distance 009.3, Crashed
+2023-02-24 14:26:33,415 - INFO - Env 00, Goal (003.9, -03.7), Episode 00016, setp 002, Reward -15.0, Distance 009.8, Crashed
+2023-02-24 14:26:34,028 - INFO - Env 03, Goal (-05.9, 004.7), Episode 00015, setp 152, Reward 12.5 , Distance 008.1, Time out
+2023-02-24 14:26:35,604 - INFO - Env 03, Goal (-07.7, 002.4), Episode 00016, setp 014, Reward -15.5, Distance 008.7, Crashed
+2023-02-24 14:26:36,015 - INFO - Env 03, Goal (002.0, 001.0), Episode 00017, setp 002, Reward -15.0, Distance 009.1, Crashed
+2023-02-24 14:26:39,806 - INFO - Env 04, Goal (004.7, -01.1), Episode 00010, setp 069, Reward -4.8 , Distance 009.1, Crashed
+2023-02-24 14:26:40,102 - INFO - Env 04, Goal (006.9, 002.8), Episode 00011, setp 002, Reward -15.0, Distance 008.1, Crashed
+2023-02-24 14:26:40,102 - INFO - Env 00, Goal (-00.4, 008.9), Episode 00017, setp 054, Reward -21.5, Distance 008.5, Crashed
+2023-02-24 14:26:40,798 - INFO - Env 00, Goal (006.3, 004.0), Episode 00018, setp 006, Reward -15.3, Distance 009.6, Crashed
+2023-02-24 14:26:41,933 - INFO - Env 01, Goal (-02.0, -07.3), Episode 00016, setp 152, Reward -5.7 , Distance 009.3, Time out
+2023-02-24 14:26:42,202 - INFO - Env 01, Goal (003.8, 003.8), Episode 00017, setp 002, Reward -15.0, Distance 009.5, Crashed
+2023-02-24 14:26:43,688 - INFO - Env 02, Goal (002.7, -05.5), Episode 00012, setp 152, Reward 18.0 , Distance 009.8, Time out
+2023-02-24 14:26:44,114 - INFO - Env 01, Goal (-05.1, 005.4), Episode 00018, setp 015, Reward -14.8, Distance 008.2, Crashed
+2023-02-24 14:26:46,393 - INFO - Env 01, Goal (-01.5, -06.1), Episode 00019, setp 021, Reward -13.1, Distance 008.1, Crashed
+2023-02-24 14:26:47,829 - INFO - Env 03, Goal (004.5, 006.1), Episode 00018, setp 096, Reward -25.7, Distance 009.1, Crashed
+2023-02-24 14:26:57,290 - INFO - Env 04, Goal (-03.5, 004.0), Episode 00012, setp 152, Reward 19.8 , Distance 009.2, Time out
+2023-02-24 14:26:58,130 - INFO - Env 00, Goal (-00.7, -06.9), Episode 00019, setp 152, Reward 13.9 , Distance 009.0, Time out
+2023-02-24 14:26:59,006 - INFO - Env 02, Goal (002.0, -00.8), Episode 00013, setp 137, Reward -16.1, Distance 008.2, Crashed
+2023-02-24 14:27:01,612 - INFO - Env 00, Goal (-05.2, -03.4), Episode 00020, setp 031, Reward -13.9, Distance 009.0, Crashed
+2023-02-24 14:27:02,209 - INFO - Env 00, Goal (001.6, 002.0), Episode 00021, setp 004, Reward -15.1, Distance 009.8, Crashed
+2023-02-24 14:27:03,528 - INFO - Env 01, Goal (-02.4, -08.5), Episode 00020, setp 152, Reward -15.0, Distance 008.5, Time out
+2023-02-24 14:27:03,914 - INFO - Env 01, Goal (-04.3, -00.2), Episode 00021, setp 002, Reward -15.0, Distance 009.8, Crashed
+2023-02-24 14:27:05,320 - INFO - Env 03, Goal (-02.0, -08.3), Episode 00019, setp 152, Reward -6.7 , Distance 008.9, Time out
+2023-02-24 14:27:05,726 - INFO - Env 04, Goal (-00.7, -01.1), Episode 00013, setp 063, Reward -20.8, Distance 008.1, Crashed
+2023-02-24 14:27:08,130 - INFO - Env 01, Goal (003.6, -07.9), Episode 00022, setp 034, Reward -13.6, Distance 008.2, Crashed
+2023-02-24 14:27:09,828 - INFO - Env 02, Goal (001.1, -03.4), Episode 00014, setp 085, Reward -14.3, Distance 008.8, Crashed
+2023-02-24 14:27:15,904 - INFO - Env 03, Goal (003.6, -08.1), Episode 00020, setp 096, Reward -25.7, Distance 009.3, Crashed
+2023-02-24 14:27:19,521 - INFO - Env 00, Goal (000.2, -08.7), Episode 00022, setp 152, Reward 14.8 , Distance 008.8, Time out
+2023-02-24 14:27:22,220 - INFO - Env 01, Goal (005.6, -03.8), Episode 00023, setp 132, Reward -19.0, Distance 008.5, Crashed
+2023-02-24 14:27:22,220 - INFO - Env 04, Goal (003.2, 008.2), Episode 00014, setp 152, Reward 13.1 , Distance 009.4, Time out
+2023-02-24 14:27:22,613 - INFO - Env 01, Goal (002.9, 004.4), Episode 00024, setp 002, Reward -15.0, Distance 008.8, Crashed
+2023-02-24 14:27:26,096 - INFO - Env 04, Goal (006.7, 001.5), Episode 00015, setp 035, Reward -10.8, Distance 009.9, Crashed
+2023-02-24 14:27:26,096 - INFO - Env 02, Goal (-00.6, 004.4), Episode 00015, setp 152, Reward 10.3 , Distance 008.7, Time out
+2023-02-24 14:27:26,400 - INFO - Env 02, Goal (-00.9, -08.6), Episode 00016, setp 002, Reward -15.0, Distance 009.3, Crashed
+2023-02-24 14:27:30,789 - INFO - Env 00, Goal (-06.0, -04.3), Episode 00023, setp 101, Reward -15.0, Distance 008.6, Crashed
+2023-02-24 14:27:32,822 - INFO - Env 03, Goal (-00.2, 006.1), Episode 00021, setp 152, Reward 13.8 , Distance 008.9, Time out
+2023-02-24 14:27:38,986 - INFO - Env 01, Goal (-00.1, -04.7), Episode 00025, setp 152, Reward 5.2  , Distance 008.1, Time out
+2023-02-24 14:27:42,607 - INFO - Env 04, Goal (006.0, -02.4), Episode 00016, setp 152, Reward 12.6 , Distance 008.1, Time out
+2023-02-24 14:27:42,902 - INFO - Env 04, Goal (-02.3, -00.3), Episode 00017, setp 002, Reward -15.0, Distance 009.6, Crashed
+2023-02-24 14:27:42,902 - INFO - Env 02, Goal (003.7, -07.8), Episode 00017, setp 152, Reward 10.8 , Distance 009.1, Time out
+2023-02-24 14:27:45,186 - INFO - Env 04, Goal (003.2, 007.9), Episode 00018, setp 021, Reward -16.9, Distance 008.1, Crashed
+2023-02-24 14:27:47,603 - INFO - Env 00, Goal (-07.4, -03.3), Episode 00024, setp 152, Reward -9.2 , Distance 009.5, Time out
+2023-02-24 14:27:48,020 - INFO - Env 04, Goal (007.6, -00.0), Episode 00019, setp 024, Reward -14.5, Distance 008.7, Crashed
+2023-02-24 14:27:49,895 - INFO - Env 03, Goal (-07.3, 001.0), Episode 00022, setp 152, Reward 8.2  , Distance 008.5, Time out
+2023-02-24 14:27:52,005 - INFO - Env 00, Goal (000.6, 004.7), Episode 00025, setp 037, Reward -14.3, Distance 009.6, Crashed
+2023-02-24 14:27:52,492 - INFO - Env 02, Goal (002.2, -07.7), Episode 00018, setp 081, Reward -15.7, Distance 008.2, Crashed
+2023-02-24 14:27:55,095 - INFO - Env 04, Goal (002.5, 007.0), Episode 00020, setp 061, Reward -16.3, Distance 009.9, Crashed
+2023-02-24 14:27:55,708 - INFO - Env 02, Goal (003.1, -01.2), Episode 00019, setp 027, Reward -17.4, Distance 008.9, Crashed
+2023-02-24 14:27:57,013 - INFO - Env 01, Goal (001.7, 007.3), Episode 00026, setp 152, Reward 9.5  , Distance 009.9, Time out
+2023-02-24 14:28:06,593 - INFO - Env 03, Goal (002.6, -04.9), Episode 00023, setp 152, Reward -2.6 , Distance 008.5, Time out
+2023-02-24 14:28:08,324 - INFO - Env 02, Goal (004.5, -05.6), Episode 00020, setp 118, Reward -2.3 , Distance 009.9, Crashed
+2023-02-24 14:28:09,102 - INFO - Env 00, Goal (-02.8, -03.3), Episode 00026, setp 152, Reward 1.3  , Distance 009.5, Time out
+2023-02-24 14:28:11,889 - INFO - Env 04, Goal (-03.2, -06.1), Episode 00021, setp 152, Reward 5.3  , Distance 009.6, Time out
+2023-02-24 14:28:12,501 - INFO - Env 03, Goal (001.6, 007.6), Episode 00024, setp 049, Reward -13.1, Distance 009.9, Crashed
+2023-02-24 14:28:12,913 - INFO - Env 03, Goal (003.4, 002.8), Episode 00025, setp 002, Reward -15.0, Distance 009.0, Crashed
+2023-02-24 14:28:13,813 - INFO - Env 03, Goal (-04.5, -04.0), Episode 00026, setp 008, Reward -15.3, Distance 009.5, Crashed
+2023-02-24 14:28:14,288 - INFO - Env 01, Goal (-05.2, -03.9), Episode 00027, setp 152, Reward 17.1 , Distance 009.7, Time out
+2023-02-24 14:28:14,833 - INFO - Env 04, Goal (-01.7, -02.3), Episode 00022, setp 017, Reward -15.9, Distance 008.8, Crashed
+2023-02-24 14:28:19,192 - INFO - Env 01, Goal (004.0, 001.4), Episode 00028, setp 044, Reward -19.3, Distance 008.4, Crashed
+2023-02-24 14:28:25,932 - INFO - Env 02, Goal (-00.7, 000.5), Episode 00021, setp 152, Reward 13.9 , Distance 008.3, Time out
+2023-02-24 14:28:26,630 - INFO - Env 00, Goal (-01.4, 004.5), Episode 00027, setp 152, Reward 1.5  , Distance 009.1, Time out
+2023-02-24 14:28:27,397 - INFO - Env 02, Goal (-05.2, 004.0), Episode 00022, setp 012, Reward -16.7, Distance 008.2, Crashed
+2023-02-24 14:28:30,103 - INFO - Env 03, Goal (-06.9, 001.9), Episode 00027, setp 145, Reward -34.8, Distance 008.7, Crashed
+2023-02-24 14:28:30,104 - INFO - Env 02, Goal (-04.3, 001.2), Episode 00023, setp 025, Reward -17.8, Distance 009.4, Crashed
+2023-02-24 14:28:31,595 - INFO - Env 04, Goal (-00.3, -01.9), Episode 00023, setp 152, Reward 17.3 , Distance 009.2, Time out
+2023-02-24 14:28:33,218 - INFO - Env 00, Goal (003.7, -00.1), Episode 00028, setp 056, Reward -18.2, Distance 009.5, Crashed
+2023-02-24 14:28:34,504 - INFO - Env 01, Goal (-00.9, -04.1), Episode 00029, setp 134, Reward 1.0  , Distance 009.0, Crashed
+2023-02-24 14:28:36,039 - INFO - Env 03, Goal (003.0, 007.7), Episode 00028, setp 048, Reward -19.7, Distance 009.9, Crashed
+2023-02-24 14:28:36,619 - INFO - Env 03, Goal (004.0, 004.2), Episode 00029, setp 005, Reward -15.0, Distance 008.2, Crashed
+2023-02-24 14:28:38,702 - INFO - Env 01, Goal (000.2, -05.5), Episode 00030, setp 035, Reward -19.0, Distance 009.7, Crashed
+2023-02-24 14:28:39,189 - INFO - Env 00, Goal (003.7, 003.3), Episode 00029, setp 047, Reward -16.0, Distance 008.3, Crashed
+2023-02-24 14:28:47,330 - INFO - Env 04, Goal (-05.0, 007.4), Episode 00024, setp 138, Reward 0.9  , Distance 009.9, Crashed
+2023-02-24 14:28:47,714 - INFO - Env 04, Goal (001.9, 002.1), Episode 00025, setp 002, Reward -15.0, Distance 009.3, Crashed
+2023-02-24 14:28:48,112 - INFO - Env 02, Goal (001.4, 006.6), Episode 00024, setp 152, Reward 14.8 , Distance 009.9, Time out
+2023-02-24 14:28:48,591 - INFO - Env 02, Goal (002.7, -01.6), Episode 00025, setp 003, Reward -15.0, Distance 009.7, Crashed
+2023-02-24 14:28:53,821 - INFO - Env 03, Goal (-02.8, 004.7), Episode 00030, setp 152, Reward 6.2  , Distance 009.1, Time out
+2023-02-24 14:28:55,888 - INFO - Env 01, Goal (004.5, 002.2), Episode 00031, setp 152, Reward 1.0  , Distance 008.8, Time out
+2023-02-24 14:28:56,430 - INFO - Env 00, Goal (001.0, 006.6), Episode 00030, setp 152, Reward 5.1  , Distance 009.2, Time out
+2023-02-24 14:28:58,618 - INFO - Env 00, Goal (-00.3, -02.4), Episode 00031, setp 020, Reward -16.8, Distance 008.5, Crashed
+2023-02-24 14:29:00,427 - INFO - Env 02, Goal (-03.8, -07.0), Episode 00026, setp 105, Reward -22.6, Distance 009.4, Crashed
+2023-02-24 14:29:05,203 - INFO - Env 04, Goal (002.3, 001.6), Episode 00026, setp 152, Reward 17.6 , Distance 009.0, Time out
+2023-02-24 14:29:08,899 - INFO - Env 03, Goal (-03.5, -04.4), Episode 00031, setp 134, Reward -30.5, Distance 008.2, Crashed
+2023-02-24 14:29:12,705 - INFO - Env 01, Goal (006.0, -02.7), Episode 00032, setp 152, Reward 17.2 , Distance 009.8, Time out
+2023-02-24 14:29:15,105 - INFO - Env 00, Goal (-06.0, 005.5), Episode 00032, setp 152, Reward -7.2 , Distance 008.6, Time out
+2023-02-24 14:29:17,030 - INFO - Env 02, Goal (-08.9, -00.0), Episode 00027, setp 152, Reward 1.2  , Distance 008.2, Time out
+2023-02-24 14:29:17,415 - INFO - Env 02, Goal (-01.5, -01.7), Episode 00028, setp 002, Reward -15.0, Distance 008.4, Crashed
+2023-02-24 14:29:19,937 - INFO - ########################## model saved when update 20 times#########################
+2023-02-24 14:29:19,938 - INFO - Env 00, Goal (000.3, 003.2), Episode 00033, setp 040, Reward -20.7, Distance 008.9, Crashed
+2023-02-24 14:29:22,330 - INFO - Env 04, Goal (005.9, 003.8), Episode 00027, setp 152, Reward 2.0  , Distance 009.6, Time out
+2023-02-24 14:29:22,919 - INFO - Env 01, Goal (001.4, 008.9), Episode 00033, setp 085, Reward -12.8, Distance 008.9, Crashed
+2023-02-24 14:29:26,205 - INFO - Env 03, Goal (000.9, -03.8), Episode 00032, setp 152, Reward 18.4 , Distance 009.7, Time out
+2023-02-24 14:29:29,593 - INFO - Env 04, Goal (-04.8, -06.1), Episode 00028, setp 067, Reward -19.3, Distance 009.2, Crashed
+2023-02-24 14:29:29,902 - INFO - Env 04, Goal (-00.4, -08.0), Episode 00029, setp 002, Reward -15.0, Distance 008.2, Crashed
+2023-02-24 14:29:34,403 - INFO - Env 02, Goal (-02.3, -02.7), Episode 00029, setp 152, Reward -4.5 , Distance 008.9, Time out
+2023-02-24 14:29:36,809 - INFO - Env 00, Goal (-06.0, -00.2), Episode 00034, setp 152, Reward 13.2 , Distance 009.7, Time out
+2023-02-24 14:29:39,526 - INFO - Env 01, Goal (003.2, -05.2), Episode 00034, setp 152, Reward 6.8  , Distance 008.2, Time out
+2023-02-24 14:29:42,916 - INFO - Env 03, Goal (000.2, 007.6), Episode 00033, setp 152, Reward -12.9, Distance 009.2, Time out
+2023-02-24 14:29:46,488 - INFO - Env 04, Goal (008.3, 001.9), Episode 00030, setp 152, Reward 5.9  , Distance 009.3, Time out
+2023-02-24 14:29:47,538 - INFO - Env 04, Goal (000.5, -01.6), Episode 00031, setp 007, Reward -15.1, Distance 009.9, Crashed
+2023-02-24 14:29:49,439 - INFO - Env 04, Goal (-02.3, -04.1), Episode 00032, setp 017, Reward -15.5, Distance 009.6, Crashed
+2023-02-24 14:29:50,938 - INFO - Env 03, Goal (005.8, -04.0), Episode 00034, setp 068, Reward -12.6, Distance 009.6, Crashed
+2023-02-24 14:29:51,801 - INFO - Env 02, Goal (001.8, 002.9), Episode 00030, setp 152, Reward 9.3  , Distance 008.1, Time out
+2023-02-24 14:29:52,215 - INFO - Env 04, Goal (005.6, 001.1), Episode 00033, setp 021, Reward -16.4, Distance 009.8, Crashed
+2023-02-24 14:29:52,615 - INFO - Env 04, Goal (-00.6, -00.4), Episode 00034, setp 002, Reward -15.0, Distance 008.5, Crashed
+2023-02-24 14:29:54,927 - INFO - Env 00, Goal (000.1, 005.3), Episode 00035, setp 152, Reward 14.7 , Distance 009.1, Time out
+2023-02-24 14:29:57,492 - INFO - Env 01, Goal (-02.2, 000.4), Episode 00035, setp 152, Reward -7.0 , Distance 008.5, Time out
+2023-02-24 14:30:03,290 - INFO - Env 00, Goal (-07.8, 002.5), Episode 00036, setp 080, Reward -22.8, Distance 008.7, Crashed
+2023-02-24 14:30:07,613 - INFO - Env 04, Goal (-03.4, 003.6), Episode 00035, setp 140, Reward -15.2, Distance 009.2, Crashed
+2023-02-24 14:30:08,214 - INFO - Env 03, Goal (000.3, -03.3), Episode 00035, setp 152, Reward 13.8 , Distance 009.2, Time out
+2023-02-24 14:30:09,021 - INFO - Env 03, Goal (-05.4, -05.3), Episode 00036, setp 007, Reward -15.4, Distance 008.7, Crashed
+2023-02-24 14:30:09,413 - INFO - Env 02, Goal (-04.3, -07.0), Episode 00031, setp 152, Reward 14.1 , Distance 008.9, Time out
+2023-02-24 14:30:14,101 - INFO - Env 03, Goal (006.6, 002.6), Episode 00037, setp 046, Reward -16.1, Distance 009.3, Crashed
+2023-02-24 14:30:14,587 - INFO - Env 01, Goal (008.1, -02.5), Episode 00036, setp 152, Reward 9.7  , Distance 009.6, Time out
+2023-02-24 14:30:16,877 - INFO - Env 00, Goal (-05.1, 007.3), Episode 00037, setp 116, Reward 1.8  , Distance 008.5, Crashed
+2023-02-24 14:30:17,534 - INFO - Env 00, Goal (002.7, -07.9), Episode 00038, setp 005, Reward -14.4, Distance 008.5, Crashed
+2023-02-24 14:30:17,914 - INFO - Env 00, Goal (003.6, 003.1), Episode 00039, setp 002, Reward -15.0, Distance 008.3, Crashed
+2023-02-24 14:30:25,223 - INFO - Env 04, Goal (005.3, -04.4), Episode 00036, setp 152, Reward 19.3 , Distance 008.9, Time out
+2023-02-24 14:30:26,529 - INFO - Env 02, Goal (000.2, -06.6), Episode 00032, setp 152, Reward 11.3 , Distance 009.4, Time out
+2023-02-24 14:30:31,214 - INFO - Env 03, Goal (007.5, -01.3), Episode 00038, setp 152, Reward 17.9 , Distance 009.9, Time out
+2023-02-24 14:30:31,599 - INFO - Env 01, Goal (-04.9, 004.8), Episode 00037, setp 152, Reward 16.2 , Distance 009.6, Time out
+2023-02-24 14:30:32,915 - INFO - Env 01, Goal (-03.8, -00.8), Episode 00038, setp 011, Reward -15.0, Distance 009.8, Crashed
+2023-02-24 14:30:34,496 - INFO - Env 00, Goal (008.0, -02.9), Episode 00040, setp 152, Reward 18.9 , Distance 009.4, Time out
+2023-02-24 14:30:41,912 - INFO - Env 04, Goal (-02.0, 008.3), Episode 00037, setp 152, Reward -15.2, Distance 008.6, Time out
+2023-02-24 14:30:43,191 - INFO - Env 02, Goal (001.9, 001.8), Episode 00033, setp 152, Reward 15.7 , Distance 009.6, Time out
+2023-02-24 14:30:43,616 - INFO - Env 00, Goal (001.5, 006.8), Episode 00041, setp 083, Reward -24.3, Distance 008.9, Crashed
+2023-02-24 14:30:45,032 - INFO - Env 03, Goal (-02.5, 007.1), Episode 00039, setp 121, Reward -24.2, Distance 009.4, Crashed
+2023-02-24 14:30:48,703 - INFO - Env 00, Goal (002.1, 001.6), Episode 00042, setp 047, Reward -16.7, Distance 008.9, Crashed
+2023-02-24 14:30:49,315 - INFO - Env 01, Goal (-06.2, 004.0), Episode 00039, setp 146, Reward 1.8  , Distance 008.7, Crashed
+2023-02-24 14:30:49,924 - INFO - Env 01, Goal (001.4, 008.3), Episode 00040, setp 005, Reward -14.8, Distance 009.9, Crashed
+2023-02-24 14:30:51,801 - INFO - Env 01, Goal (-00.1, -07.8), Episode 00041, setp 017, Reward -17.2, Distance 008.4, Crashed
+2023-02-24 14:30:59,227 - INFO - Env 04, Goal (003.6, 007.9), Episode 00038, setp 152, Reward 19.1 , Distance 008.4, Time out
+2023-02-24 14:31:00,601 - INFO - Env 02, Goal (008.0, 000.7), Episode 00034, setp 152, Reward 16.5 , Distance 009.4, Time out
+2023-02-24 14:31:02,201 - INFO - Env 03, Goal (005.4, 004.1), Episode 00040, setp 152, Reward 17.1 , Distance 008.2, Time out
+2023-02-24 14:31:04,489 - INFO - Env 02, Goal (000.1, -00.4), Episode 00035, setp 035, Reward -18.8, Distance 008.2, Crashed
+2023-02-24 14:31:05,995 - INFO - Env 00, Goal (-06.9, 000.6), Episode 00043, setp 152, Reward 9.2  , Distance 009.7, Time out
+2023-02-24 14:31:08,604 - INFO - Env 01, Goal (-03.8, -01.2), Episode 00042, setp 152, Reward 13.1 , Distance 009.5, Time out
+2023-02-24 14:31:11,409 - INFO - Env 00, Goal (-02.2, 002.3), Episode 00044, setp 049, Reward -20.5, Distance 008.2, Crashed
+2023-02-24 14:31:12,690 - INFO - Env 00, Goal (-00.4, 003.1), Episode 00045, setp 012, Reward -16.0, Distance 009.3, Crashed
+2023-02-24 14:31:16,521 - INFO - Env 04, Goal (007.3, 000.7), Episode 00039, setp 152, Reward 16.7 , Distance 008.7, Time out
+2023-02-24 14:31:19,137 - INFO - Env 03, Goal (-07.6, 002.6), Episode 00041, setp 152, Reward 7.0  , Distance 009.6, Time out
+2023-02-24 14:31:21,533 - INFO - Env 02, Goal (-05.2, -03.6), Episode 00036, setp 152, Reward 2.6  , Distance 010.0, Time out
+2023-02-24 14:31:25,312 - INFO - Env 01, Goal (-02.9, 003.6), Episode 00043, setp 152, Reward 13.6 , Distance 008.2, Time out
+2023-03-03 18:01:52,034 - INFO - #####################################
+2023-03-03 18:01:52,034 - INFO - ############Start Training###########
+2023-03-03 18:01:52,034 - INFO - #####################################
+2023-03-03 18:01:56,814 - INFO - Env 00, Goal (002.9, 000.9), Episode 00001, setp 038, Reward -18.6, Distance 009.9, Crashed
+2023-03-03 18:01:57,700 - INFO - Env 04, Goal (-05.0, 002.5), Episode 00001, setp 045, Reward -13.7, Distance 009.3, Crashed
+2023-03-03 18:01:58,724 - INFO - Env 00, Goal (000.9, -01.5), Episode 00002, setp 016, Reward -16.6, Distance 009.0, Crashed
+2023-03-03 18:02:00,943 - INFO - Env 00, Goal (-01.9, 000.2), Episode 00003, setp 021, Reward -15.8, Distance 008.4, Crashed
+2023-03-03 18:02:01,319 - INFO - Env 00, Goal (-02.8, -03.5), Episode 00004, setp 002, Reward -15.0, Distance 009.3, Crashed
+2023-03-03 18:02:02,702 - INFO - Env 04, Goal (-04.4, 006.3), Episode 00002, setp 041, Reward -20.4, Distance 008.4, Crashed
+2023-03-03 18:02:03,006 - INFO - Env 04, Goal (002.6, -02.2), Episode 00003, setp 002, Reward -15.0, Distance 009.9, Crashed
+2023-03-03 18:02:03,724 - INFO - Env 01, Goal (-04.2, 001.2), Episode 00001, setp 090, Reward -20.9, Distance 009.4, Crashed
+2023-03-03 18:02:04,119 - INFO - Env 01, Goal (002.3, -00.7), Episode 00002, setp 002, Reward -15.0, Distance 008.5, Crashed
+2023-03-03 18:02:05,421 - INFO - Env 04, Goal (-03.3, 002.4), Episode 00004, setp 017, Reward -15.6, Distance 008.9, Crashed
+2023-03-03 18:02:10,717 - INFO - Env 03, Goal (-01.4, -05.4), Episode 00001, setp 152, Reward 1.1  , Distance 009.6, Time out
+2023-03-03 18:02:10,717 - INFO - Env 02, Goal (-02.2, 003.6), Episode 00001, setp 152, Reward 0.8  , Distance 009.4, Time out
+2023-03-03 18:02:12,217 - INFO - Env 02, Goal (-04.5, -04.5), Episode 00002, setp 013, Reward -16.4, Distance 009.3, Crashed
+2023-03-03 18:02:14,593 - INFO - Env 04, Goal (002.6, -01.8), Episode 00005, setp 084, Reward -18.9, Distance 008.4, Crashed
+2023-03-03 18:02:16,232 - INFO - Env 00, Goal (-07.1, 002.3), Episode 00005, setp 126, Reward -31.0, Distance 008.7, Crashed
+2023-03-03 18:02:20,836 - INFO - Env 01, Goal (001.9, -01.3), Episode 00003, setp 152, Reward 11.6 , Distance 008.1, Time out
+2023-03-03 18:02:21,829 - INFO - Env 02, Goal (-06.4, -05.6), Episode 00003, setp 087, Reward -17.7, Distance 008.7, Crashed
+2023-03-03 18:02:27,525 - INFO - Env 03, Goal (004.0, 003.2), Episode 00002, setp 152, Reward 5.4  , Distance 008.8, Time out
+2023-03-03 18:02:27,919 - INFO - Env 04, Goal (-05.3, -02.1), Episode 00006, setp 120, Reward -12.9, Distance 008.9, Crashed
+2023-03-03 18:02:30,511 - INFO - Env 04, Goal (-04.4, -05.8), Episode 00007, setp 024, Reward -13.5, Distance 009.2, Crashed
+2023-03-03 18:02:33,129 - INFO - Env 00, Goal (005.1, -00.4), Episode 00006, setp 152, Reward 11.3 , Distance 009.5, Time out
+2023-03-03 18:02:37,019 - INFO - Env 01, Goal (-06.0, 006.3), Episode 00004, setp 145, Reward -6.1 , Distance 009.6, Crashed
+2023-03-03 18:02:38,735 - INFO - Env 02, Goal (-02.0, 007.7), Episode 00004, setp 152, Reward -8.5 , Distance 009.8, Time out
+2023-03-03 18:02:42,543 - INFO - Env 02, Goal (-05.7, 004.7), Episode 00005, setp 037, Reward -11.5, Distance 008.7, Crashed
+2023-03-03 18:02:44,502 - INFO - Env 03, Goal (-04.4, 002.8), Episode 00003, setp 152, Reward 12.1 , Distance 008.5, Time out
+2023-03-03 18:02:46,900 - INFO - Env 03, Goal (001.1, -00.2), Episode 00004, setp 023, Reward -12.8, Distance 008.3, Crashed
+2023-03-03 18:02:47,444 - INFO - Env 04, Goal (000.4, -01.0), Episode 00008, setp 152, Reward -1.6 , Distance 008.4, Time out
+2023-03-03 18:02:50,037 - INFO - Env 00, Goal (-00.6, 004.7), Episode 00007, setp 152, Reward 12.8 , Distance 008.2, Time out
+2023-03-03 18:02:53,900 - INFO - Env 01, Goal (-06.5, 002.3), Episode 00005, setp 152, Reward 5.8  , Distance 009.0, Time out
+2023-03-03 18:02:54,989 - INFO - Env 02, Goal (002.4, -01.5), Episode 00006, setp 110, Reward -23.7, Distance 008.3, Crashed
+2023-03-03 18:02:55,618 - INFO - Env 03, Goal (-08.0, -02.1), Episode 00005, setp 074, Reward -22.1, Distance 008.8, Crashed
+2023-03-03 18:02:57,534 - INFO - Env 04, Goal (004.2, 007.4), Episode 00009, setp 088, Reward -26.7, Distance 009.0, Crashed
+2023-03-03 18:03:00,921 - INFO - Env 00, Goal (006.7, -01.6), Episode 00008, setp 096, Reward -15.9, Distance 009.6, Crashed
+2023-03-03 18:03:01,927 - INFO - Env 03, Goal (-05.0, -06.3), Episode 00006, setp 056, Reward -14.2, Distance 008.4, Crashed
+2023-03-03 18:03:02,924 - INFO - Env 00, Goal (001.6, -00.0), Episode 00009, setp 017, Reward -15.4, Distance 008.7, Crashed
+2023-03-03 18:03:07,525 - INFO - Env 00, Goal (-00.7, 001.8), Episode 00010, setp 044, Reward -17.9, Distance 008.9, Crashed
+2023-03-03 18:03:08,905 - INFO - Env 01, Goal (-02.7, 006.6), Episode 00006, setp 130, Reward -30.7, Distance 008.7, Crashed
+2023-03-03 18:03:12,226 - INFO - Env 02, Goal (007.2, -02.4), Episode 00007, setp 152, Reward 12.0 , Distance 010.0, Time out
+2023-03-03 18:03:14,319 - INFO - Env 04, Goal (-04.6, -07.2), Episode 00010, setp 152, Reward 16.4 , Distance 009.8, Time out
+2023-03-03 18:03:15,724 - INFO - Env 04, Goal (-00.9, -01.3), Episode 00011, setp 013, Reward -15.0, Distance 009.8, Crashed
+2023-03-03 18:03:17,618 - INFO - Env 04, Goal (002.5, -05.6), Episode 00012, setp 017, Reward -17.0, Distance 009.6, Crashed
+2023-03-03 18:03:18,209 - INFO - Env 02, Goal (-02.4, 002.0), Episode 00008, setp 051, Reward -19.7, Distance 008.7, Crashed
+2023-03-03 18:03:19,343 - INFO - Env 03, Goal (007.5, -04.9), Episode 00007, setp 152, Reward 13.1 , Distance 008.8, Time out
+2023-03-03 18:03:21,523 - INFO - Env 01, Goal (-06.0, -04.9), Episode 00007, setp 108, Reward -9.4 , Distance 008.9, Crashed
+2023-03-03 18:03:25,103 - INFO - Env 00, Goal (000.3, -06.6), Episode 00011, setp 152, Reward 3.3  , Distance 008.2, Time out
+2023-03-03 18:03:31,223 - INFO - Env 00, Goal (002.7, -02.2), Episode 00012, setp 059, Reward -13.9, Distance 010.0, Crashed
+2023-03-03 18:03:33,242 - INFO - Env 03, Goal (-05.6, 001.9), Episode 00008, setp 128, Reward -27.1, Distance 009.4, Crashed
+2023-03-03 18:03:34,744 - INFO - Env 04, Goal (-02.2, -03.8), Episode 00013, setp 152, Reward 2.9  , Distance 008.6, Time out
+2023-03-03 18:03:35,403 - INFO - Env 01, Goal (006.8, -01.1), Episode 00008, setp 126, Reward -26.9, Distance 009.2, Crashed
+2023-03-03 18:03:35,404 - INFO - Env 02, Goal (-08.7, -01.9), Episode 00009, setp 152, Reward 12.8 , Distance 008.5, Time out
+2023-03-03 18:03:37,142 - INFO - Env 02, Goal (-02.5, 000.4), Episode 00010, setp 016, Reward -17.2, Distance 009.4, Crashed
+2023-03-03 18:03:38,111 - INFO - Env 02, Goal (007.7, 002.9), Episode 00011, setp 008, Reward -15.8, Distance 009.7, Crashed
+2023-03-03 18:03:38,523 - INFO - Env 02, Goal (-08.7, -02.0), Episode 00012, setp 002, Reward -15.0, Distance 008.7, Crashed
+2023-03-03 18:03:39,039 - INFO - Env 00, Goal (001.7, 000.4), Episode 00013, setp 060, Reward -21.8, Distance 008.1, Crashed
+2023-03-03 18:03:42,743 - INFO - Env 04, Goal (003.7, -05.9), Episode 00014, setp 064, Reward -9.9 , Distance 008.1, Crashed
+2023-03-03 18:03:48,917 - INFO - Env 01, Goal (000.4, -04.5), Episode 00009, setp 120, Reward -27.0, Distance 009.1, Crashed
+2023-03-03 18:03:50,923 - INFO - Env 03, Goal (000.7, -07.3), Episode 00009, setp 152, Reward 3.5  , Distance 009.5, Time out
+2023-03-03 18:03:55,114 - INFO - Env 02, Goal (-07.8, -03.1), Episode 00013, setp 152, Reward -5.9 , Distance 008.8, Time out
+2023-03-03 18:03:55,644 - INFO - Env 00, Goal (005.6, -00.3), Episode 00014, setp 152, Reward 15.8 , Distance 009.7, Time out
+2023-03-03 18:03:57,217 - INFO - Env 02, Goal (005.5, 003.2), Episode 00014, setp 017, Reward -16.5, Distance 009.2, Crashed
+2023-03-03 18:03:59,532 - INFO - Env 04, Goal (-03.3, -03.9), Episode 00015, setp 152, Reward 0.5  , Distance 008.4, Time out
+2023-03-03 18:04:00,897 - INFO - Env 02, Goal (005.6, 001.8), Episode 00015, setp 033, Reward -16.1, Distance 009.4, Crashed
+2023-03-03 18:04:06,120 - INFO - Env 01, Goal (004.6, -03.3), Episode 00010, setp 152, Reward -3.6 , Distance 008.3, Time out
+2023-03-03 18:04:07,924 - INFO - Env 04, Goal (002.4, -08.6), Episode 00016, setp 076, Reward -22.2, Distance 009.2, Crashed
+2023-03-03 18:04:07,924 - INFO - Env 03, Goal (-00.3, -01.6), Episode 00010, setp 152, Reward 12.7 , Distance 009.2, Time out
+2023-03-03 18:04:08,319 - INFO - Env 04, Goal (003.7, -01.2), Episode 00017, setp 002, Reward -15.0, Distance 009.3, Crashed
+2023-03-03 18:04:09,102 - INFO - Env 03, Goal (000.9, 002.3), Episode 00011, setp 007, Reward -15.1, Distance 009.5, Crashed
+2023-03-03 18:04:10,321 - INFO - Env 00, Goal (-04.6, -04.5), Episode 00015, setp 127, Reward -30.4, Distance 008.9, Crashed
+2023-03-03 18:04:10,931 - INFO - Env 00, Goal (001.2, 003.4), Episode 00016, setp 005, Reward -14.8, Distance 008.8, Crashed
+2023-03-03 18:04:16,431 - INFO - Env 04, Goal (004.8, 001.9), Episode 00018, setp 072, Reward -22.7, Distance 009.4, Crashed
+2023-03-03 18:04:16,818 - INFO - Env 04, Goal (004.6, 000.4), Episode 00019, setp 002, Reward -15.0, Distance 008.1, Crashed
+2023-03-03 18:04:17,736 - INFO - Env 01, Goal (001.8, -06.7), Episode 00011, setp 096, Reward -21.0, Distance 008.7, Crashed
+2023-03-03 18:04:18,005 - INFO - Env 01, Goal (005.9, 002.2), Episode 00012, setp 002, Reward -15.0, Distance 009.5, Crashed
+2023-03-03 18:04:18,005 - INFO - Env 02, Goal (000.3, -08.8), Episode 00016, setp 145, Reward -31.3, Distance 008.6, Crashed
+2023-03-03 18:04:20,437 - INFO - Env 02, Goal (003.7, -00.1), Episode 00017, setp 021, Reward -16.3, Distance 009.6, Crashed
+2023-03-03 18:04:26,331 - INFO - Env 03, Goal (003.0, 002.3), Episode 00012, setp 152, Reward 12.9 , Distance 009.8, Time out
+2023-03-03 18:04:28,034 - INFO - Env 00, Goal (003.7, -04.8), Episode 00017, setp 152, Reward -7.6 , Distance 008.1, Time out
+2023-03-03 18:04:28,307 - INFO - Env 00, Goal (002.5, -02.8), Episode 00018, setp 002, Reward -15.0, Distance 008.4, Crashed
+2023-03-03 18:04:28,914 - INFO - Env 03, Goal (-05.2, -02.4), Episode 00013, setp 019, Reward -17.4, Distance 009.3, Crashed
+2023-03-03 18:04:33,998 - INFO - Env 01, Goal (-02.6, -06.0), Episode 00013, setp 144, Reward -3.7 , Distance 008.9, Crashed
+2023-03-03 18:04:34,420 - INFO - Env 04, Goal (005.5, 003.2), Episode 00020, setp 152, Reward 17.9 , Distance 008.8, Time out
+2023-03-03 18:04:37,323 - INFO - Env 00, Goal (005.1, -05.0), Episode 00019, setp 078, Reward -13.7, Distance 009.6, Crashed
+2023-03-03 18:04:37,721 - INFO - Env 00, Goal (-05.6, -01.2), Episode 00020, setp 002, Reward -15.0, Distance 009.0, Crashed
+2023-03-03 18:04:38,007 - INFO - Env 02, Goal (-01.5, 004.7), Episode 00018, setp 152, Reward 17.6 , Distance 008.4, Time out
+2023-03-03 18:04:45,816 - INFO - Env 03, Goal (-07.2, -03.9), Episode 00014, setp 152, Reward 7.6  , Distance 009.6, Time out
+2023-03-03 18:04:46,220 - INFO - Env 03, Goal (003.2, 003.8), Episode 00015, setp 002, Reward -15.0, Distance 009.8, Crashed
+2023-03-03 18:04:46,222 - INFO - Env 02, Goal (-02.2, 004.7), Episode 00019, setp 077, Reward -8.2 , Distance 009.8, Crashed
+2023-03-03 18:04:49,138 - INFO - Env 01, Goal (-02.9, -07.1), Episode 00014, setp 131, Reward -5.3 , Distance 009.6, Crashed
+2023-03-03 18:04:51,513 - INFO - Env 04, Goal (004.2, -03.5), Episode 00021, setp 152, Reward 9.2  , Distance 009.0, Time out
+2023-03-03 18:04:54,399 - INFO - Env 00, Goal (002.2, 004.9), Episode 00021, setp 152, Reward 4.4  , Distance 009.7, Time out
+2023-03-03 18:04:56,939 - INFO - Env 03, Goal (001.8, 004.0), Episode 00016, setp 098, Reward -22.7, Distance 009.1, Crashed
+2023-03-03 18:04:57,206 - INFO - Env 03, Goal (003.7, -01.6), Episode 00017, setp 002, Reward -15.0, Distance 009.2, Crashed
+2023-03-03 18:04:57,206 - INFO - Env 01, Goal (007.6, 002.5), Episode 00015, setp 073, Reward -14.2, Distance 009.2, Crashed
+2023-03-03 18:04:58,595 - INFO - Env 03, Goal (-06.1, -05.3), Episode 00018, setp 012, Reward -14.9, Distance 010.0, Crashed
+2023-03-03 18:05:00,643 - INFO - Env 01, Goal (003.8, -03.4), Episode 00016, setp 030, Reward -13.2, Distance 009.4, Crashed
+2023-03-03 18:05:03,332 - INFO - Env 02, Goal (-03.6, 001.3), Episode 00020, setp 152, Reward 10.4 , Distance 008.7, Time out
+2023-03-03 18:05:05,815 - INFO - Env 02, Goal (000.2, -01.1), Episode 00021, setp 023, Reward -12.5, Distance 008.5, Crashed
+2023-03-03 18:05:08,635 - INFO - Env 04, Goal (-03.4, -02.3), Episode 00022, setp 152, Reward 11.8 , Distance 009.1, Time out
+2023-03-03 18:05:09,620 - INFO - Env 04, Goal (001.5, 000.3), Episode 00023, setp 009, Reward -13.8, Distance 008.5, Crashed
+2023-03-03 18:05:11,713 - INFO - Env 00, Goal (002.8, 001.2), Episode 00022, setp 152, Reward 13.4 , Distance 009.7, Time out
+2023-03-03 18:05:12,118 - INFO - Env 00, Goal (004.5, 005.1), Episode 00023, setp 002, Reward -15.0, Distance 008.8, Crashed
+2023-03-03 18:05:15,713 - INFO - Env 03, Goal (004.3, -05.1), Episode 00019, setp 152, Reward 15.9 , Distance 009.2, Time out
+2023-03-03 18:05:17,401 - INFO - Env 03, Goal (004.5, 002.5), Episode 00020, setp 016, Reward -16.6, Distance 008.1, Crashed
+2023-03-03 18:05:17,819 - INFO - Env 03, Goal (001.5, -00.2), Episode 00021, setp 002, Reward -15.0, Distance 009.9, Crashed
+2023-03-03 18:05:18,231 - INFO - Env 01, Goal (002.2, -05.9), Episode 00017, setp 152, Reward -6.9 , Distance 008.2, Time out
+2023-03-03 18:05:18,617 - INFO - Env 01, Goal (004.0, 003.4), Episode 00018, setp 002, Reward -15.0, Distance 008.7, Crashed
+2023-03-03 18:05:21,618 - INFO - Env 03, Goal (005.9, 005.8), Episode 00022, setp 030, Reward -12.1, Distance 008.0, Crashed
+2023-03-03 18:05:23,798 - INFO - Env 02, Goal (002.5, -06.6), Episode 00022, setp 152, Reward 18.4 , Distance 010.0, Time out
+2023-03-03 18:05:24,305 - INFO - Env 01, Goal (002.3, 002.2), Episode 00019, setp 049, Reward -20.0, Distance 008.8, Crashed
+2023-03-03 18:05:26,831 - INFO - Env 02, Goal (003.1, -01.6), Episode 00023, setp 027, Reward -17.0, Distance 010.0, Crashed
+2023-03-03 18:05:27,823 - INFO - Env 04, Goal (002.8, -06.4), Episode 00024, setp 152, Reward -8.8 , Distance 008.9, Time out
+2023-03-03 18:05:29,931 - INFO - Env 03, Goal (-03.1, 004.7), Episode 00023, setp 072, Reward -23.6, Distance 008.3, Crashed
+2023-03-03 18:05:30,206 - INFO - Env 00, Goal (-00.8, -02.6), Episode 00024, setp 152, Reward -2.8 , Distance 009.4, Time out

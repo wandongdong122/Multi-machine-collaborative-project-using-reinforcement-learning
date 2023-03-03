@@ -1,0 +1,2 @@
+stage_ros-add_pose_and_crash
+-DCATKIN_DEVEL_PREFIX=/home/wdd/Documents/rl-collision-avoidance-master/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wdd/Documents/rl-collision-avoidance-master/catkin_ws/install -G Unix Makefiles
